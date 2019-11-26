@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -35,7 +35,6 @@
+ 
+ <h3>二回目更新しました<h3>
+ 
+-　　　	<img src="img_1.png">
+ 	
+ 
+ 	<h3>おまけ</3> <p>映画館をイメージして波が動く機械を作りました今度作り方を紹介します</p>
